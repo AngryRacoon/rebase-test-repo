@@ -1,1 +1,2 @@
-#Test repo with rebase
+Test repo with rebase
+some text
